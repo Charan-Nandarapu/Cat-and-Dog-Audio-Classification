@@ -4,7 +4,7 @@ Audio Deep Learning Classification of sounds of Cats and Dogs Using CNN
 ## Dataset
 
 The dataset consists in many "wav" files for both the cat and dog classes :
-- Cat has 164 WAV files to which corresponds 1323 sec of audio
+- Cat has 167 WAV files to which corresponds 1323 sec of audio
 - Dog has 113 WAV files to which corresponds 598 sec of audio
 
 - A sample auidio file "dog_test.wav" is added to repository used for testing the model.
